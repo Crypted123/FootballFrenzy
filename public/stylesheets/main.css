@@ -23,3 +23,7 @@ font-weight: 800;
 h1 {
   font-weight: 400;
 }
+
+div.headline img {
+  border: 4px solid grey;
+}
